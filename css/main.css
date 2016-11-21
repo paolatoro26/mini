@@ -55,7 +55,8 @@ header a.sumate{
 	position: absolute;
 	top: 10%;
 	background-color: #FFBF00;
-	padding: 10px
+	padding: 10px;width: 100px;
+	border-radius: 10px
 }
 header .row{
 	position: relative;
